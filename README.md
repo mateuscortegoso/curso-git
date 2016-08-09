@@ -1,2 +1,2 @@
 # curso-git
-Repositório para o curso online de Git da Alura
+Repositório para o curso online da Alura sobre Git
